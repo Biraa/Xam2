@@ -11,6 +11,7 @@ namespace App1
     {
         public MainPage()
         {   //voll am initialisierex
+            // jo voll
             InitializeComponent();
         }
     }
