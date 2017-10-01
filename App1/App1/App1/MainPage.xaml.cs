@@ -10,7 +10,7 @@ namespace App1
     public partial class MainPage : ContentPage
     {
         public MainPage()
-        {
+        {   //voll am initialisierex
             InitializeComponent();
         }
     }
